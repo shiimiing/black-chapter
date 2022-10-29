@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 26: expected 'simple_expression' not found.
-    xsize=0.5
-         ^
+File "game/script.rpy", line 47: ATL statement contains two expressions in a row; is one of them a misspelled property? If not, separate them with pass.
+    stop music
+              ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Thu Oct 13 16:28:03 2022
+Sat Oct 29 09:45:05 2022
