@@ -152,6 +152,9 @@ label dream:
     '[player] bỗng thấy ớn lạnh, da gà nổi hết cả lên, một dự cảm không lành trào tới'
     show GVCN
     'gvcn' 'Hôm nay cô muốn thông báo với lớp mình 1 tin buồn'
+
+    play music 'audio/eheheee (1).mp3'
+
     'gvcn' 'Đó là tối qua, bạn [main] được phát hiện đã qua đời trong chính phòng ngủ của mình'
     'gvcn' 'Nguyên nhân hiện chưa xác đinh được.'
     'gvcn' 'Sáng mai 9h sẽ tổ chức đưa hoa tiễn, lớp mình nhớ mặc đồ đen, đến đúng giờ.'
